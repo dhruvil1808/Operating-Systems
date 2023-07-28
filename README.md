@@ -1,2 +1,2 @@
 # Operating-Systems
-Contains programs related to Operating systems Course
+Algorithms related to Operating System Design in c.
